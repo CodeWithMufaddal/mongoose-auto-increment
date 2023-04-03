@@ -61,6 +61,6 @@
     "test": "node_modules/mocha/bin/mocha"
   },
   "bugs": {
-    "url": "https://github.com/codetunnel/mongoose-auto-increment/issues"
+    "url": "https://github.com/CodeWithMufaddal/mongoose-auto-increment/issues"
   }
 }
